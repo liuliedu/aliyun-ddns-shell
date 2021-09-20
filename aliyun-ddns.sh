@@ -38,7 +38,7 @@ echo -e "${color_green_start}
 #
 # Version: ${build_version}
 # Author: Liuliedu<request404@163.com>
-# Github: https://github.com/liuliedu/aliyun-ddns-shell
+# Github: https://github.com/liuliedu/aliyun-ddns-shell 
 # BuildDate: ${build_date}
 #
 #############################################################
